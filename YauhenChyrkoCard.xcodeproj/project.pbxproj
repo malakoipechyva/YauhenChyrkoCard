@@ -12,6 +12,7 @@
 		E3265E6C256E6052002698C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3265E6B256E6052002698C0 /* Assets.xcassets */; };
 		E3265E6F256E6052002698C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3265E6E256E6052002698C0 /* Preview Assets.xcassets */; };
 		E3265E7C256E87AC002698C0 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3265E7B256E87AC002698C0 /* OpenSans-Regular.ttf */; };
+		E3265E84256EB8CB002698C0 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3265E83256EB8CB002698C0 /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E3265E6E256E6052002698C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E3265E70256E6052002698C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3265E7B256E87AC002698C0 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		E3265E83256EB8CB002698C0 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E3265E77256E6888002698C0 /* fonts */,
 				E3265E67256E6049002698C0 /* YauhenChyrkoCardApp.swift */,
 				E3265E69256E6049002698C0 /* ContentView.swift */,
+				E3265E83256EB8CB002698C0 /* InfoView.swift */,
 				E3265E6B256E6052002698C0 /* Assets.xcassets */,
 				E3265E70256E6052002698C0 /* Info.plist */,
 				E3265E6D256E6052002698C0 /* Preview Content */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3265E6A256E6049002698C0 /* ContentView.swift in Sources */,
+				E3265E84256EB8CB002698C0 /* InfoView.swift in Sources */,
 				E3265E68256E6049002698C0 /* YauhenChyrkoCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
